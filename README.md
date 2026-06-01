@@ -23,6 +23,9 @@ A simple calculator application built using HTML, CSS, and JavaScript.
 2. Click any arithmetic operation button.
 3. View the result instantly.
 
+##URL
+https://devika05perumal.github.io/Simple-JavaScript-Calculator/
+
 ## Author
 
 Devika P
